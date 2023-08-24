@@ -1,0 +1,6 @@
+artifact_location: file:C:\Users\jeffnsy\Desktop\alphaslib\mlruns/1
+creation_time: 1692865569901
+experiment_id: '1'
+last_update_time: 1692865569901
+lifecycle_stage: active
+name: train_model

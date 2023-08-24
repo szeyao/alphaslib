@@ -1,0 +1,15 @@
+artifact_uri: file:C:\Users\jeffnsy\Desktop\alphaslib\mlruns/1/4b73c7ba6b1e4594855fd9b50c5fd510/artifacts
+end_time: 1692865572916
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+run_id: 4b73c7ba6b1e4594855fd9b50c5fd510
+run_name: mlflow_recorder
+run_uuid: 4b73c7ba6b1e4594855fd9b50c5fd510
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1692865570923
+status: 3
+tags: []
+user_id: jeffnsy

@@ -1,0 +1,1 @@
+[{'filter_type': 'NameDFilter', 'name_rule_re': 'SH[0-9!]', 'filter_start_time': None, 'filter_end_time': None}, {'filter_type': 'ExpressionDFilter', 'rule_expression': '$close > 10', 'filter_start_time': None, 'filter_end_time': None, 'keep': False}]
